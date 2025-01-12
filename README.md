@@ -18,3 +18,6 @@ Learn about conditional rendering, referencing DOM elements, and web hosting wit
 
 ### [Session 5](https://github.com/Astral-Lab/R2R-SESSION-5)
 In the final session you will learn about routing, global state management, and be given a brief introduction to advanced React concepts and libraries, such as custom hooks, memoisation, and Redux. You will also learn where to go next to continue advancing your React skills.
+
+### 📢 Stay Updated & Support
+To stay updated on the course or ask any questions, be sure to join the UWCS Discord [here](https://discord.gg/nq4aDAct3S).
